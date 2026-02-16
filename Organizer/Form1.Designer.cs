@@ -3,6 +3,7 @@
     partial class Form1
     {
         /// completly new str num 1
+        /// completly new str num 2
         /// <summary>
         /// Обязательная переменная конструктора.
         /// </summary>
