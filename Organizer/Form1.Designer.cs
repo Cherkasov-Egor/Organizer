@@ -2,6 +2,7 @@
 {
     partial class Form1
     {
+        /// just my comm number 1 for main
         /// <summary>
         /// Обязательная переменная конструктора.
         /// </summary>
