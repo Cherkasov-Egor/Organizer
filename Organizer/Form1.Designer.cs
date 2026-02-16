@@ -2,9 +2,9 @@
 {
     partial class Form1
     {
-        /// just my comm number 1 for main
-        /// just my comm number 2 for main
-        /// just my comm number 3 for main
+        /// just my comm number 1 for newbranch
+        /// just my comm number 2 for newbranch
+        /// just my comm number 3 for newbranch
         /// <summary>
         /// Обязательная переменная конструктора.
         /// </summary>
