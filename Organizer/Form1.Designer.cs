@@ -4,6 +4,7 @@
     {
         /// just my comm number 1 for main
         /// just my comm number 2 for main
+        /// just my comm number 3 for main
         /// <summary>
         /// Обязательная переменная конструктора.
         /// </summary>
