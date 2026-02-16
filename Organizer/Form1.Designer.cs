@@ -2,6 +2,7 @@
 {
     partial class Form1
     {
+        /// just my comm number 1 for newbranch
         /// <summary>
         /// Обязательная переменная конструктора.
         /// </summary>
