@@ -4,6 +4,7 @@
     {
         /// completly new str num 1
         /// completly new str num 2
+        /// completly new str num 3
         /// <summary>
         /// Обязательная переменная конструктора.
         /// </summary>
