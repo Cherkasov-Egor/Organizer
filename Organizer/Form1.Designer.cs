@@ -4,6 +4,7 @@
     {
         /// just my comm number 1 for newbranch
         /// just my comm number 2 for newbranch
+        /// just my comm number 3 for newbranch
         /// <summary>
         /// Обязательная переменная конструктора.
         /// </summary>
